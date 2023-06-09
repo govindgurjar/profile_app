@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
                 Padding(
                   padding: EdgeInsets.all(8.0),
                   child: Text(
-                    'Govind Gurjar',
+                    'Govind Bod Gurjar',
                     style: TextStyle(
                       fontFamily: 'Pacifico',
                       color: Colors.white,
