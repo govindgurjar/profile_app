@@ -1,8 +1,10 @@
 # profile_app
 
-A new Flutter project.
-
 ## Getting Started
+
+<img src="https://github.com/govindgurjar/profile_app/assets/83970520/be6f61c2-e458-41b4-803e-8bf2a8cdcc7f" alt="drawing" width="330"/>
+
+
 
 This project is a starting point for a Flutter application.
 
